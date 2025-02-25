@@ -14,3 +14,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="left">🛠 Lenguajes y herramientas</h2>
+
+###
+
+<h4 align="left">🖌️ Fronted</h4>
+
+###
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass" />
+  </a>
+</div>
+
+###
+
+<h4 align="left">💻 Backend</h4>
+
+###
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,express,nodejs,mongodb,mysql" />
+  </a>
+</div>
+
+###
+
+<h4 align="left">🛟 Extras</h4>
+
+###
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,firebase,postman,git,github,jira" />
+  </a>
+</div>
