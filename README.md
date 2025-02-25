@@ -1,4 +1,5 @@
 ![Header](./banner.png)
+<p align="left"> Soy Sergio Ruiz, estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia. Me apasiona la tecnología y actualmente me estoy formando como desarrollador Full Stack </p>
 
 <!--
 **SergioR-02/SergioR-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">🛠 Lenguajes y herramientas</h2>
+
+---
+
+<h3 align="left">🛠 Lenguajes y herramientas</h2>
 
 ###
 
@@ -52,3 +56,27 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=figma,firebase,postman,git,github,jira" />
   </a>
 </div>
+
+
+---
+
+###
+
+<h3 align="left">📫 Contacto</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sergio-ruiz-75818a28b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:sergioruiz456@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Gmail:sergioruiz456@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      alt="gmail logo"
+    />
+  </a>
+</div>
+
+###
