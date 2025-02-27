@@ -19,7 +19,7 @@ Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacio
 <h4 align="left">🖌️ Frontend</h4>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass" />
   </a>
 </div>
 
