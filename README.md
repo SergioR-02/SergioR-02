@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./Banner.png)
 
 ---
 
